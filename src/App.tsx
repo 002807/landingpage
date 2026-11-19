@@ -287,7 +287,7 @@ export default function App() {
               <div className="story">
                 <div className="rv"><p className="eyebrow">Früher</p><p>Ich stand fast jede Stunde am Stuhl. Alles lief über mich. Jede Frage. Jede Entscheidung.</p></div>
                 <div className="rv"><p className="eyebrow">Heute</p><p>Ich habe meinen Salon neu gebaut. Schritt für Schritt. Mein Team entscheidet selbst.</p></div>
-                <div className="rv"><p className="eyebrow">Für dich</p><p>Du musst nicht alles allein tragen. Du brauchst ein System. Das zeige ich dir.</p></div>
+                <div className="rv"><p className="eyebrow">Für dich</p><p>Du musst nicht alles allein stemmen. Du brauchst ein System. Das zeige ich dir.</p></div>
               </div>
               <p className="script sig lisa-sig">Elisabeth</p>
               <div className="trio">
